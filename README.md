@@ -28,7 +28,7 @@ _______________________________________________________________________________
    
     📊 Data Visualization: Matplotlib, Seaborn.
    
-    🛠️ Tools: Jupyter Notebook, Git, Vs-code, Anaconda navigatore, Sql server, Power Bi, Tableau.
+    🛠️ Tools: Jupyter Notebook, Git, Vs-code, Anaconda navigator, Sql server, Power Bi, Tableau.
    
               
 
