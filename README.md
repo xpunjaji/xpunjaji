@@ -1,16 +1,16 @@
  👋 Greetings, I am Punjaji Karhale, though most know me as Sanjay.
 
 🔍 About Me:
-🎓 Education: BCA From Swami Ramanand Teerth Marathwada University
+🎓 Education: BCA From Swami Ramanand Teerth Marathwada University,
               Data science and artificial Intelligence From Boston Institute Of Analytics
 
 _______________________________________________________________________________  
   💡 Interests:
-    🤖 Machine Learning
-    📊 Data Science
-    🧠 Artificial Intelligence
-    📝 Natural Language Processing
-    📈 Predictive Analytics
+    🤖 Machine Learning,
+    📊 Data Science,
+    🧠 Artificial Intelligence,
+    📝 Natural Language Processing,
+    📈 Predictive Analytics,
 _______________________________________________________________________________ 
 🔧 Skills:
    ⌨️ Programming Languages: Python, SQL
