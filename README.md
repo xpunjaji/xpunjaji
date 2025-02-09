@@ -12,8 +12,6 @@ _______________________________________________________________________________
   
     🤖 Machine Learning.
     
-    📊 Data Science.
-    
     🧠 Artificial Intelligence.
     
     📝 Natural Language Processing.
