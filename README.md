@@ -5,8 +5,6 @@
 
     🎓 Education: BCA From Swami Ramanand Teerth Marathwada University.
 
-                  Data science and artificial Intelligence From Boston Institute Of Analytics.
-
 _______________________________________________________________________________  
   💡 Interests:
   
